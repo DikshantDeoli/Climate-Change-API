@@ -14,10 +14,10 @@ Node.js ,Express.js ,Nodemon ,Cheerio ,Axios.
 ###Images
 
 Image:
-❮img src="images/news.png" ❯
+<img src="images/news.png">
 > climate-change-a-p-i.herokuapp.com/news
 
-❮img src="images/news_SpecificSite.png" ❯
+<img src="images/news_SpecificSite.png">
 > climate-change-a-p-i.herokuapp.com/news/:Name-Guardian
  
 
